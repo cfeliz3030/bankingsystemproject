@@ -1,0 +1,3 @@
+uuid
+psycopg2
+requests
