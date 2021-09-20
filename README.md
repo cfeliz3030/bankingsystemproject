@@ -12,10 +12,10 @@ https://aws.amazon.com/
 * requests
 ```pip install requests```
 * Python 3.6+
-* AWS RDS (Postgres) Database
+* AWS RDS (Postgresql) Database
 
 ## Installation
-* Setup AWS RDS(Postgres) database
+* Setup AWS RDS(Postgresql) database
 https://www.youtube.com/watch?v=RerDL93sBdY&t=833s
 * Clone the repo
 ``` git clone https://github.com/cfeliz3030/bankingsystemproject.git ```
