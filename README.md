@@ -12,7 +12,7 @@ https://aws.amazon.com/
 * requests
 ```pip install requests```
 * Python 3.6+
-* AWS RDS Database
+* AWS RDS (Postgres) Database
 
 ## Installation
 * Setup AWS RDS(Postgres) database
