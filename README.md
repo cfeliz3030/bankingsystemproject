@@ -11,6 +11,8 @@ https://aws.amazon.com/
 ```pip install psycopg2```
 * requests
 ```pip install requests```
+* Python 3.6+
+* AWS RDS Database
 
 ## Installation
 * Setup AWS RDS(Postgres) database
@@ -27,10 +29,6 @@ password = 'password'
 database = 'database' 
 ```
 
-## Requirements
-* Python 3.6+
-* AWS Account
-* AWS RDS Database
 
 ## Usage
 * After entering database credentials, run 'db_utils.py'. This script will generate the tables needed for storing data.
