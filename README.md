@@ -11,6 +11,8 @@ https://aws.amazon.com/
 ```pip install psycopg2```
 * requests
 ```pip install requests```
+* uuid
+```pip install uuid```
 * Python 3.6+
 * AWS RDS (Postgresql) Database
 
