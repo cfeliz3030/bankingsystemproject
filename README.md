@@ -7,7 +7,10 @@ Python 3.6
 ## Prerequisites
 * Create AWS account
 https://aws.amazon.com/
-* psycopg2
+* postgresql
+``` brew install postgresql```
+* psycopg2: If you run into installation issues check out:\
+ https://stackoverflow.com/questions/5420789/how-to-install-psycopg2-with-pip-on-python \
 ```pip install psycopg2```
 * requests
 ```pip install requests```
