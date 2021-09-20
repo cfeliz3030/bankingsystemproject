@@ -8,7 +8,7 @@ Python 3.6
 * Create AWS account
 https://aws.amazon.com/
 * psycopg2
-```pip install psychopg2```
+```pip install psycopg2```
 * requests
 ```pip install requests```
 
